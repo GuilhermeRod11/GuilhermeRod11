@@ -13,14 +13,15 @@
 
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="mysql" src="  https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
 ## Sobre mim
+
 #### 💻 Desenvolvedor Fullstack
 
-#### 🚀 Apaixonado por tecnologia, código limpo e boas práticas
+#### 💕 Apaixonado por tecnologia desde sempre
 
-#### 📚 Sempre aprendendo e explorando novas tecnologias
+#### 📚 Estudante de Ciências da Computação
 
 #### 😎 Programador carismático
